@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋! James Miller here. 
+
+#### I'm currently finishing my Bachelors in Computer Science in Software Development. 
 
 <!--
 **jmillerim2/jmillerim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
